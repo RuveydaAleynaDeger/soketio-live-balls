@@ -4,7 +4,6 @@
   "private": true,
   "scripts": {
     "start": "nodemon ./bin/www"
-   
   },
   "dependencies": {
     "body-parser": "~1.18.2",
